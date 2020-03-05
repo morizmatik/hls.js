@@ -86,6 +86,6 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.4",
     "webpack-merge": "^4.2.1",
-    "morizmatik/webworkify-webpack": "^2.1.5"
+    "webworkify-webpack": "^2.1.5"
   }
 }
